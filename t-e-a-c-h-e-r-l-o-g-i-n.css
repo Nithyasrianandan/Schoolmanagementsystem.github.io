@@ -1,0 +1,283 @@
+.support16 {
+  position: relative;
+  font-weight: 500;
+}
+.privacy-policy16 {
+  position: relative;
+  font-weight: 600;
+}
+.terms-of-use16 {
+  position: relative;
+  transform: rotate(-0.94deg);
+  transform-origin: 0 0;
+}
+.support-parent14 {
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 16px;
+  width: 695px;
+  height: 49px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 19px 12px 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.teacher-login-inner {
+  position: absolute;
+  top: 644px;
+  left: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+  overflow: hidden;
+}
+.group-child63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 144px;
+  height: 40px;
+}
+.home3 {
+  margin: 0;
+}
+.home2 {
+  position: absolute;
+  top: 6px;
+  left: 11px;
+  display: inline-block;
+  width: 122px;
+  height: 38px;
+}
+.vector-parent62 {
+  position: relative;
+  width: 144px;
+  height: 44px;
+}
+.group-child65 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 132px;
+  height: 40px;
+}
+.contact1 {
+  position: absolute;
+  top: 6px;
+  left: 5px;
+  display: inline-block;
+  width: 122px;
+  height: 38px;
+}
+.vector-parent64 {
+  position: relative;
+  width: 132px;
+  height: 44px;
+}
+.group-child66 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 202px;
+  height: 40px;
+}
+.request-a-demo1 {
+  position: absolute;
+  top: 6px;
+  left: 13.04px;
+  display: inline-block;
+  width: 176.87px;
+  height: 38px;
+  transform: rotate(0.06deg);
+  transform-origin: 0 0;
+}
+.vector-parent65 {
+  position: relative;
+  width: 202px;
+  height: 44.19px;
+}
+.group-child67 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  border-radius: 20px;
+  width: 100px;
+  height: 40px;
+}
+.log-in2 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 122px;
+  height: 38px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: color-dodge;
+}
+.vector-parent66 {
+  position: relative;
+  width: 122px;
+  height: 44px;
+}
+.group-parent34 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 776px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 49px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  mix-blend-mode: normal;
+}
+.frame-wrapper32,
+.frame-wrapper33,
+.frame-wrapper35 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper35 {
+  width: 748px;
+  padding: 10px 0 10px 10px;
+  box-sizing: border-box;
+}
+.frame-wrapper32,
+.frame-wrapper33 {
+  padding: 10px;
+}
+.frame-wrapper32 {
+  position: absolute;
+  top: -23px;
+  left: 310px;
+}
+.choology17 {
+  font-size: 32px;
+  font-weight: 800;
+  font-family: Poppins;
+}
+.schoology34 {
+  position: absolute;
+  top: -14px;
+  left: 16px;
+  text-align: left;
+  display: inline-block;
+  width: 223px;
+  height: 90px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 64px;
+  font-family: "Permanent Marker";
+}
+.frame-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+  overflow: hidden;
+}
+.teacher-sign-in {
+  position: absolute;
+  top: 22px;
+  left: 31px;
+  font-weight: 500;
+}
+.div2,
+.email-or-user1 {
+  position: absolute;
+  top: 10px;
+  left: 18px;
+  font-weight: 300;
+}
+.div2 {
+  top: -2px;
+  left: 370px;
+  font-size: 24px;
+  color: #c61b1b;
+}
+.email-or-user-name-group {
+  position: absolute;
+  top: 61px;
+  left: 31px;
+  border-radius: 5px;
+  background-color: #f8f6f6;
+  width: 389px;
+  height: 47px;
+  overflow: hidden;
+  font-size: 18px;
+}
+.password1 {
+  position: absolute;
+  top: 10px;
+  left: 21px;
+  font-weight: 300;
+}
+.password-group {
+  position: absolute;
+  top: 122px;
+  left: 31px;
+  border-radius: 5px;
+  background-color: #f8f6f6;
+  width: 389px;
+  height: 47px;
+  overflow: hidden;
+  font-size: 18px;
+}
+.log-in3 {
+  position: absolute;
+  top: 13px;
+  left: 22px;
+  font-weight: 500;
+}
+.log-in-container {
+  position: absolute;
+  top: 208px;
+  left: 317px;
+  border-radius: 10px;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 103px;
+  height: 56px;
+  overflow: hidden;
+  color: #fff;
+}
+.forget-password1 {
+  position: absolute;
+  top: 183px;
+  left: 31px;
+  font-size: 16px;
+}
+.teacher-sign-in-parent {
+  position: absolute;
+  top: 225px;
+  left: 208px;
+  border-radius: 10px;
+  background-color: rgba(156, 91, 206, 0.26);
+  width: 451px;
+  height: 290px;
+  overflow: hidden;
+  text-align: left;
+  color: #000;
+}
+.teacher-login {
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  font-family: Poppins;
+}

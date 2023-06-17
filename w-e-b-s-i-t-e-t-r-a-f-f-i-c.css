@@ -1,0 +1,493 @@
+.privacy-policy1,
+.support1 {
+  position: relative;
+  font-weight: 500;
+}
+.privacy-policy1 {
+  font-weight: 600;
+}
+.terms-of-use1 {
+  position: relative;
+  transform: rotate(-0.94deg);
+  transform-origin: 0 0;
+}
+.support-group {
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 16px;
+  width: 695px;
+  height: 49px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 19px 12px 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.website-traffic-inner {
+  position: absolute;
+  top: 644px;
+  left: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+  overflow: hidden;
+  color: #fff;
+}
+.choology1 {
+  font-size: 32px;
+  font-weight: 800;
+  font-family: Poppins;
+}
+.schoology3 {
+  position: absolute;
+  top: -14px;
+  left: 13px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.vector-icon1 {
+  position: absolute;
+  height: 38.16%;
+  width: 2.89%;
+  top: 36.18%;
+  right: 24.02%;
+  bottom: 25.66%;
+  left: 73.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.vector-icon1 {
+  height: 42.11%;
+  width: 3.05%;
+  top: 34.87%;
+  right: 19.41%;
+  bottom: 23.03%;
+  left: 77.54%;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  height: 39.47%;
+  width: 2.69%;
+  top: 37.5%;
+  right: 15.17%;
+  left: 82.14%;
+}
+.frame-child6,
+.frame-child7 {
+  height: 50%;
+  width: 3.2%;
+  top: 32.24%;
+  right: 10.59%;
+  bottom: 17.76%;
+  left: 86.21%;
+}
+.frame-child7 {
+  height: 42.11%;
+  width: 2.81%;
+  top: 34.87%;
+  right: 2.23%;
+  bottom: 23.03%;
+  left: 94.96%;
+}
+.user1 {
+  position: absolute;
+  top: 29px;
+  left: 1156px;
+  font-size: 20px;
+  font-family: Poppins;
+  color: #f8f6f6;
+  text-align: center;
+  display: inline-block;
+  width: 61px;
+}
+.frame-child8 {
+  position: absolute;
+  top: 18px;
+  left: 1105px;
+  border-radius: 15px;
+  width: 162px;
+  height: 50px;
+}
+.frame-child9,
+.frame-wrapper2,
+.schoology-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(221, 193, 243, 0.17);
+  width: 264px;
+  height: 569px;
+  overflow: hidden;
+}
+.frame-wrapper2,
+.schoology-group {
+  top: 74px;
+  background-color: rgba(212, 183, 235, 0.17);
+}
+.schoology-group {
+  top: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 144px;
+  height: 34.55px;
+}
+.course3 {
+  margin: 0;
+}
+.course2 {
+  position: absolute;
+  top: 3px;
+  left: 11px;
+  display: inline-block;
+  width: 122px;
+  height: 32.82px;
+}
+.vector-parent1 {
+  position: relative;
+  width: 144px;
+  height: 35.82px;
+}
+.group-child3,
+.group1 {
+  position: absolute;
+  top: 0;
+}
+.group-child3 {
+  left: 0;
+  border-radius: 20px;
+  width: 144px;
+  height: 34px;
+}
+.group1 {
+  left: 11px;
+  display: inline-block;
+  width: 122px;
+  height: 38px;
+}
+.vector-parent2 {
+  position: relative;
+  width: 144px;
+  height: 38px;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 145px;
+  height: 34.55px;
+}
+.resources1 {
+  position: absolute;
+  top: 2px;
+  left: 6px;
+  display: inline-block;
+  width: 134.02px;
+  height: 32.82px;
+}
+.vector-parent3 {
+  position: relative;
+  width: 145px;
+  height: 34.82px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 138px;
+  height: 35.47px;
+}
+.grades1 {
+  position: absolute;
+  top: 2px;
+  left: 12.03px;
+  display: inline-block;
+  width: 113.97px;
+  height: 33.7px;
+  transform: rotate(0.08deg);
+  transform-origin: 0 0;
+}
+.vector-parent4 {
+  position: relative;
+  width: 138px;
+  height: 35.86px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 21px;
+  left: 235px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 687px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 49px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: 20px;
+  font-family: Poppins;
+}
+.group-frame,
+.website-traffic-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 76px;
+}
+.website-traffic-child {
+  text-align: left;
+  font-size: 64px;
+  color: #fff;
+  font-family: "Permanent Marker";
+}
+.student-details-container,
+.student-details2 {
+  position: absolute;
+  left: 0;
+  width: 236px;
+  height: 53px;
+}
+.student-details2 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.student-details-container {
+  top: 47px;
+  background-color: rgba(239, 224, 251, 0.17);
+  overflow: hidden;
+}
+.details-of-schoology1,
+.event-calender1,
+.update-grade2,
+.update-materials2 {
+  position: absolute;
+  top: 228px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 54px;
+}
+.event-calender1,
+.update-grade2,
+.update-materials2 {
+  top: 369px;
+  height: 44px;
+}
+.event-calender1,
+.update-grade2 {
+  top: 413px;
+  height: 40px;
+}
+.event-calender1 {
+  top: 15px;
+  height: 51px;
+}
+.event-calender-wrapper {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  background-color: rgba(235, 214, 252, 0.17);
+  width: 236px;
+  height: 66px;
+  overflow: hidden;
+}
+.notice-board1 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 47px;
+}
+.notice-board-wrapper {
+  position: absolute;
+  top: 159px;
+  left: 0;
+  background-color: rgba(240, 220, 255, 0.17);
+  width: 236px;
+  height: 60px;
+  overflow: hidden;
+}
+.website-traffic2 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 32px;
+}
+.frame-group,
+.website-traffic-wrapper {
+  position: absolute;
+  left: 0;
+  width: 236px;
+  overflow: hidden;
+}
+.website-traffic-wrapper {
+  top: 301px;
+  background-color: #fff;
+  height: 49px;
+}
+.frame-group {
+  top: 79px;
+  background-color: rgba(191, 153, 220, 0.17);
+  height: 564px;
+}
+.website-traffic-item {
+  position: absolute;
+  top: 114px;
+  left: 576px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.frame-child10,
+.update-remainders1 {
+  position: absolute;
+  top: 8px;
+  left: 3px;
+}
+.frame-child10 {
+  top: 37px;
+  left: 0;
+  width: 332px;
+  height: 3px;
+}
+.remainders-did-not1 {
+  position: absolute;
+  top: 72px;
+  left: 56px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 0.79);
+}
+.frame-child11 {
+  position: absolute;
+  height: 12%;
+  width: 5.42%;
+  top: 68.29%;
+  right: 68.52%;
+  bottom: 19.71%;
+  left: 26.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.refresh-remainders1 {
+  position: absolute;
+  top: 118px;
+  left: 103px;
+  font-size: 16px;
+  font-weight: 200;
+  display: inline-block;
+  width: 175px;
+}
+.update-remainders-group {
+  position: absolute;
+  top: 109px;
+  left: 939px;
+  background-color: rgba(191, 153, 220, 0.17);
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
+  width: 332px;
+  height: 175px;
+  overflow: hidden;
+}
+.upcoming1,
+.updatecalender1 {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+}
+.updatecalender1 {
+  left: 165px;
+}
+.upcoming-did-not1 {
+  position: absolute;
+  top: 66px;
+  left: 63px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 0.79);
+}
+.frame-child13 {
+  position: absolute;
+  height: 12%;
+  width: 5.42%;
+  top: 65.43%;
+  right: 65.81%;
+  bottom: 22.57%;
+  left: 28.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.refresh-upcoming1 {
+  position: absolute;
+  top: 113px;
+  left: 105px;
+  font-size: 16px;
+  font-weight: 200;
+  display: inline-block;
+  width: 175px;
+}
+.upcoming-group {
+  position: absolute;
+  top: 341px;
+  left: 935px;
+  background-color: rgba(191, 153, 220, 0.17);
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
+  width: 332px;
+  height: 175px;
+  overflow: hidden;
+}
+.image-12-icon {
+  position: absolute;
+  top: 79px;
+  left: 264px;
+  width: 454px;
+  height: 479px;
+  object-fit: cover;
+}
+.website-traffic1 {
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 20px;
+  color: #000;
+  font-family: Poppins;
+}

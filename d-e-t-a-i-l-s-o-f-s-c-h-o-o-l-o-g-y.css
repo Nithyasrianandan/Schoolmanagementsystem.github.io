@@ -1,0 +1,511 @@
+.privacy-policy2,
+.support2 {
+  position: relative;
+  font-weight: 500;
+}
+.privacy-policy2 {
+  font-weight: 600;
+}
+.terms-of-use2 {
+  position: relative;
+  transform: rotate(-0.94deg);
+  transform-origin: 0 0;
+}
+.support-container {
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 16px;
+  width: 695px;
+  height: 49px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 19px 12px 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.details-of-schoology-inner {
+  position: absolute;
+  top: 644px;
+  left: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+  overflow: hidden;
+  color: #fff;
+}
+.choology2 {
+  font-size: 32px;
+  font-weight: 800;
+  font-family: Poppins;
+}
+.schoology5 {
+  position: absolute;
+  top: -14px;
+  left: 13px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child14,
+.frame-child15,
+.frame-child16,
+.frame-child17,
+.vector-icon2 {
+  position: absolute;
+  height: 38.16%;
+  width: 2.89%;
+  top: 36.18%;
+  right: 24.02%;
+  bottom: 25.66%;
+  left: 73.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17,
+.vector-icon2 {
+  height: 42.11%;
+  width: 3.05%;
+  top: 34.87%;
+  right: 19.41%;
+  bottom: 23.03%;
+  left: 77.54%;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17 {
+  height: 39.47%;
+  width: 2.69%;
+  top: 37.5%;
+  right: 15.17%;
+  left: 82.14%;
+}
+.frame-child16,
+.frame-child17 {
+  height: 50%;
+  width: 3.2%;
+  top: 32.24%;
+  right: 10.59%;
+  bottom: 17.76%;
+  left: 86.21%;
+}
+.frame-child17 {
+  height: 42.11%;
+  width: 2.81%;
+  top: 34.87%;
+  right: 2.23%;
+  bottom: 23.03%;
+  left: 94.96%;
+}
+.user2 {
+  position: absolute;
+  top: 29px;
+  left: 1156px;
+  font-size: 20px;
+  font-family: Poppins;
+  color: #f8f6f6;
+  text-align: center;
+  display: inline-block;
+  width: 61px;
+}
+.frame-child18 {
+  position: absolute;
+  top: 18px;
+  left: 1105px;
+  border-radius: 15px;
+  width: 162px;
+  height: 50px;
+}
+.frame-child19,
+.frame-wrapper4,
+.schoology-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(221, 193, 243, 0.17);
+  width: 264px;
+  height: 569px;
+  overflow: hidden;
+}
+.frame-wrapper4,
+.schoology-container {
+  top: 74px;
+  background-color: rgba(212, 183, 235, 0.17);
+}
+.schoology-container {
+  top: 0;
+  background-color: rgba(156, 91, 206, 0.73);
+  width: 1280px;
+  height: 76px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 144px;
+  height: 34.55px;
+}
+.course5 {
+  margin: 0;
+}
+.course4 {
+  position: absolute;
+  top: 3px;
+  left: 11px;
+  display: inline-block;
+  width: 122px;
+  height: 32.82px;
+}
+.vector-parent5 {
+  position: relative;
+  width: 144px;
+  height: 35.82px;
+}
+.group-child7,
+.group2 {
+  position: absolute;
+  top: 0;
+}
+.group-child7 {
+  left: 0;
+  border-radius: 20px;
+  width: 144px;
+  height: 34px;
+}
+.group2 {
+  left: 11px;
+  display: inline-block;
+  width: 122px;
+  height: 38px;
+}
+.vector-parent6 {
+  position: relative;
+  width: 144px;
+  height: 38px;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 145px;
+  height: 34.55px;
+}
+.resources2 {
+  position: absolute;
+  top: 2px;
+  left: 6px;
+  display: inline-block;
+  width: 134.02px;
+  height: 32.82px;
+}
+.vector-parent7 {
+  position: relative;
+  width: 145px;
+  height: 34.82px;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 138px;
+  height: 35.47px;
+}
+.grades2 {
+  position: absolute;
+  top: 2px;
+  left: 12.03px;
+  display: inline-block;
+  width: 113.97px;
+  height: 33.7px;
+  transform: rotate(0.08deg);
+  transform-origin: 0 0;
+}
+.vector-parent8 {
+  position: relative;
+  width: 138px;
+  height: 35.86px;
+}
+.group-parent4 {
+  position: absolute;
+  top: 21px;
+  left: 235px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 687px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0 49px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: 20px;
+  font-family: Poppins;
+}
+.details-of-schoology-child,
+.group-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 76px;
+}
+.details-of-schoology-child {
+  text-align: left;
+  font-size: 64px;
+  color: #fff;
+  font-family: "Permanent Marker";
+}
+.student-details-frame,
+.student-details3 {
+  position: absolute;
+  left: 0;
+  width: 236px;
+  height: 53px;
+}
+.student-details3 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.student-details-frame {
+  top: 47px;
+  background-color: rgba(239, 224, 251, 0.17);
+  overflow: hidden;
+}
+.event-calender2,
+.update-grade4,
+.update-materials4,
+.website-traffic3 {
+  position: absolute;
+  top: 299px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 44px;
+}
+.event-calender2,
+.update-grade4,
+.update-materials4 {
+  top: 343px;
+}
+.event-calender2,
+.update-grade4 {
+  top: 392px;
+  height: 40px;
+}
+.event-calender2 {
+  top: 15px;
+  height: 51px;
+}
+.event-calender-parent,
+.frame-child20 {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  width: 1px;
+  height: 7px;
+  overflow: hidden;
+}
+.event-calender-parent {
+  top: 86px;
+  background-color: rgba(235, 214, 252, 0.17);
+  width: 236px;
+  height: 66px;
+}
+.notice-board2 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 47px;
+}
+.notice-board-container {
+  position: absolute;
+  top: 149px;
+  left: 0;
+  background-color: rgba(231, 207, 250, 0.17);
+  width: 236px;
+  height: 60px;
+  overflow: hidden;
+}
+.details-of-schoology3 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 236px;
+  height: 54px;
+}
+.details-of-schoology-wrapper,
+.frame-parent1 {
+  position: absolute;
+  left: 0;
+  width: 236px;
+  overflow: hidden;
+}
+.details-of-schoology-wrapper {
+  top: 208px;
+  background-color: #fff;
+  height: 70px;
+}
+.frame-parent1 {
+  top: 79px;
+  background-color: rgba(191, 153, 220, 0.17);
+  height: 564px;
+}
+.details-of-schoology-item {
+  position: absolute;
+  top: 114px;
+  left: 576px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.frame-child21,
+.update-remainders2 {
+  position: absolute;
+  top: 8px;
+  left: 3px;
+}
+.frame-child21 {
+  top: 37px;
+  left: 0;
+  width: 332px;
+  height: 3px;
+}
+.remainders-did-not2 {
+  position: absolute;
+  top: 72px;
+  left: 56px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 0.79);
+}
+.frame-child22 {
+  position: absolute;
+  height: 12%;
+  width: 5.42%;
+  top: 68.29%;
+  right: 68.52%;
+  bottom: 19.71%;
+  left: 26.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.refresh-remainders2 {
+  position: absolute;
+  top: 118px;
+  left: 103px;
+  font-size: 16px;
+  font-weight: 200;
+  display: inline-block;
+  width: 175px;
+}
+.update-remainders-container {
+  position: absolute;
+  top: 109px;
+  left: 939px;
+  background-color: rgba(191, 153, 220, 0.17);
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
+  width: 332px;
+  height: 175px;
+  overflow: hidden;
+}
+.upcoming2,
+.updatecalender2 {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+}
+.updatecalender2 {
+  left: 165px;
+}
+.upcoming-did-not2 {
+  position: absolute;
+  top: 66px;
+  left: 63px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 0.79);
+}
+.frame-child24 {
+  position: absolute;
+  height: 12%;
+  width: 5.42%;
+  top: 65.43%;
+  right: 65.81%;
+  bottom: 22.57%;
+  left: 28.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: luminosity;
+}
+.refresh-upcoming2 {
+  position: absolute;
+  top: 113px;
+  left: 105px;
+  font-size: 16px;
+  font-weight: 200;
+  display: inline-block;
+  width: 175px;
+}
+.upcoming-container {
+  position: absolute;
+  top: 341px;
+  left: 935px;
+  background-color: rgba(191, 153, 220, 0.17);
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
+  width: 332px;
+  height: 175px;
+  overflow: hidden;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  position: absolute;
+  top: 126px;
+  left: 264px;
+  width: 229px;
+  height: 158px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-11-icon {
+  top: 378px;
+  height: 156px;
+}
+.image-11-icon {
+  top: 284px;
+  left: 569px;
+  width: 279px;
+  height: 182px;
+}
+.details-of-schoology2 {
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 20px;
+  color: #000;
+  font-family: Poppins;
+}
